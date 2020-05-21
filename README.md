@@ -1,5 +1,4 @@
 # MUL_my_world_2018
-Terraforming on a ground displayed from a isometric or parallal view.
 
 Skills from B1:
 - Opening windows
