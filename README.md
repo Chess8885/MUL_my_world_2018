@@ -9,13 +9,13 @@ Game made in C and CSFML.
 You must have the CSFML library in order to compile the project.
 
 ```bash
-make # Compile the project
+make
 ```
 
 ## Usage
 
 ```bash
-./my_world # To launch the game
+./my_world
 ```
 
 ## Contributors
